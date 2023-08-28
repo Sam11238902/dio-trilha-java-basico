@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
-Repositorio para exercicios do Bootcamp Santander Java - DIO
+# Desafio dio-trilha-basica  
+Desafio Bootcamp Santander Java - DIO , simular um banco pelo terminal
